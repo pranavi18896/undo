@@ -1,0 +1,8 @@
+Undoing Local Changes that have not been committed.
+git status
+git checkout filename/withpath
+
+undoing a specific commit (that has been pushed)
+
+undoing your last commit (that has not been pushed)
+undoing local changes that have been committed (but not pushed)
