@@ -3,6 +3,6 @@ git status
 git checkout filename/withpath
 
 undoing a specific commit (that has been pushed)
- git log --oneline copy paste
+ git log --oneline copy paste changes
 undoing your last commit (that has not been pushed)
 undoing local changes that have been committed (but not pushed)
